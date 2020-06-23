@@ -1,9 +1,10 @@
-INTELLIGENT TRAFFIC MONITORING SYSTEM[README]
+# INTELLIGENT TRAFFIC MONITORING SYSTEM[README]
 
 OpenCV image filters.
 Object detection by contours.
 Building processing pipeline for further data manipulation.
 
+<!--
 
 MOG Algorithm - For background subtraction
 foreground_objects = current_frame - background_layer
@@ -31,7 +32,7 @@ The recorded cctv data is also used for a variety of other use cases like
 pedestrian detection and signal allocation for pedestrians
 Vehicle classifier and then intelligently map the duration
 Number plate detection and other traffic rule violations.
-
+-->
 References:
 
 Object detection
