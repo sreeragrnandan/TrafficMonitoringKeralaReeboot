@@ -4,6 +4,18 @@ OpenCV image filters.
 Object detection by contours.
 Building processing pipeline for further data manipulation.
 
+## Project in a nutshell
+<ul>
+  <li>
+    Uses Computer Vision to identify number of vehicle in a road and adjust the time of changing of traffic light accordingly
+  </li>
+  <li>
+    Using MOG algorithm, CC camera in traffic post
+  </li>
+  <li>
+    Main Tools Used: OpenCV, SK-Video, MySQL
+  </li>
+</ul>
 <!--
 
 MOG Algorithm - For background subtraction
