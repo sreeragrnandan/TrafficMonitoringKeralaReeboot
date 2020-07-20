@@ -10,7 +10,7 @@ Develop an inteligent traffic monitoring system which can control traffic lights
 ## Project in a nutshell
 <ul>
   <li>
-    Uses Computer Vision to identify number of vehicle in a road and adjust the time of changing of traffic light accordingly
+    Uses Computer Vision to identify the number of the vehicle on a road and adjust the time of changing of traffic light accordingly
   </li>
   <li>
     Using MOG algorithm, CC camera in traffic post
